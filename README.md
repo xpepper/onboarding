@@ -1,8 +1,5 @@
 # Advanced Curriculum For The Software Craftsman
 
-This document is intended as a guidance for new developers joining our teams at [FLYERALARM](https://flyeralarm.com).
-Because we think it might help others as well we open-sourced it. If you know something that's missing feel free send us a Pull-Request.
-
 ## Basics
 
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
@@ -24,37 +21,19 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 ## Design And Architecture Of Software
 
+* [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 * [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=sdrl-20)
-* [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
-* [18 must-watch PHP architecture talks](https://www.reddit.com/r/PHP/comments/3kklt5/18_mustwatch_php_architecture_talks_13hrs/)
 * [Practical Object-Oriented Design in Ruby](https://www.amazon.de/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1476881380&sr=1-1&keywords=practical+object-oriented+design+in+ruby)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1476887236&sr=8-1&keywords=patterns+of+enterprise+application+architecture)
 * [Domain Driven Design](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1476887211&sr=8-1&keywords=domain+driven+design)
 * [Introduction to CQRS](http://www.codeproject.com/Articles/555855/Introduction-to-CQRS)
 * [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 
-## PHP
-
-* [PHP The Right Way](http://www.phptherightway.com/)
-* [PHP The Wrong Way](http://www.phpthewrongway.com/)
-* [A response to PHP The Wrong Way](https://medium.com/@jon.lemaitre/a-response-to-php-the-wrong-way-fe7bb253e295)
-* [PHP Framework Interoperability Group](http://www.php-fig.org/)
-* [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
-* [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
-* [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
-* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
-* [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
-
 ## Tools
 
 * [git](https://git-scm.com/)
 * [Atlassian git Tutorials](https://www.atlassian.com/git/tutorials/)
 * [Interactive git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
-* [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
-* [Packagist - The PHP Package Repository](https://packagist.org/)
-* [PHPUnit](https://phpunit.de/)
-* [Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
-* [Twelve Benefits of Writing Unit Tests First](http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/)
 * [A Beginner's Guide to npm](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 
 ## Environment
@@ -62,7 +41,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 * [Explain Shell - Let it explain you what's going on](http://explainshell.com/)
 * [Puppet Tutorial](http://www.example42.com/tutorials/PuppetTutorial/#slide-0)
-* [Puphpet - GUI to set up virtual machines for web development](https://puphpet.com/)
 
 ## Persistence
 
@@ -109,10 +87,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
 * [The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
 * [Measure anything, measure everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+
 * Go to a local user group
 * Read open-source code on [GitHub](https://www.github.com)
 * Never stop building stuff
-
-
-
-On a side note: [We are searching for talented people to join our various teams of developers in multiple locations](https://karriere.flyeralarm.com/jobs)
